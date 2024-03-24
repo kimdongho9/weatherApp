@@ -1,4 +1,4 @@
-# `날씨앱`([바로가기](https://zzigguweather.netlify.app)]
+# `날씨앱`([바로가기](https://zzigguweather.netlify.app))
 * 앱이 실행되자마자 현재 위치 기반의 날씨가 보인다.
 * 날씨정보에는 도시, 섭씨 화씨 날씨상태가 보인다.
 * 5개의 버튼이 있다 (1개는 현재위치, 4개는 다른도시)
